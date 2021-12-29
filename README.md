@@ -18,3 +18,5 @@ The hardware I've tested:
 <br>
 A special thank you to Robert from Nvidia for helping me with this notebook!
 
+Link to the video - https://www.youtube.com/watch?v=r9IqwpMR9TE 
+
